@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: kx001001 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -9,11 +9,6 @@ sites:
     url: https://kx001001.serv00.net
   - name: MyServ00_kx003003
     url: https://kx003003.serv00.net
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
