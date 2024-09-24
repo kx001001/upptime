@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: MyServ00_kx001001
     url: https://kx001001.serv00.net
+    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
   - name: MyServ00_kx003003
     url: https://kx003003.serv00.net
+    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
