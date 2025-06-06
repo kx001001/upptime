@@ -7,9 +7,11 @@ sites:
     url: https://www.google.com
   - name: CN_JS_LH_FW_1
     url: https://221.130.90.170:8443
+    __dangerous__disable_verify_peer: true
 #    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
   - name: CN_JS_LH_FW_2
     url: https://58.221.8.114:8443
+    __dangerous__disable_verify_peer: true
 #    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
 
 status-website:
