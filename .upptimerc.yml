@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: MyServ00_kx001001
-    url: https://kx001001.serv00.net
-    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
-  - name: MyServ00_kx003003
-    url: https://kx003003.serv00.net
-    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
+  - name: CN_JS_LH_FW_1
+    url: https://221.130.90.170:8443
+#    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
+  - name: CN_JS_LH_FW_2
+    url: https://k58.221.8.114:8443
+#    __dangerous__body_down_if_text_missing: "403 Forbidden/403 Forbidden"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
